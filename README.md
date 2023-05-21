@@ -13,3 +13,6 @@ I'm a DevScOps Engineer. I am passionate about Cloud engineering, DevSecOps cult
 - 👯 I’m looking to collaborate on DevOps and Cloud Engineering.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to play Socceer
+
+
+## Technology and Tools
