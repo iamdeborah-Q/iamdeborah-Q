@@ -1,6 +1,6 @@
 ## ☁️☁️⛅🌥️🌨️🌧️☁️🌨️🌨️🌧️🌤️🌥️🌦️🌨️🌧️☁️⛅🌨️🌧️
 
-# Hi there, Cloud Engineer here
+# Hi there,DevSecOps Cloud Security Engineer here
 
 
 
@@ -10,7 +10,7 @@
 I'm a DevScOps Engineer. I am passionate about Cloud engineering, DevSecOps culture, Infrastructure Automation and Application Security.
 
 - 🌱 I’m currently learning Kubernetes.
-- 👯 I’m looking to collaborate on DevOps and Cloud Engineering.
+- 👯 I’m looking to collaborate on DevOps and Cloud Security Engineering.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to play Socceer
 
