@@ -1,6 +1,6 @@
 ## ☁️☁️⛅🌥️🌨️🌧️☁️🌨️🌨️🌧️🌤️🌥️🌦️🌨️🌧️☁️⛅🌨️🌧️
 
-# Hi there,DevSecOps Cloud Security Engineer here
+# Hi there, DevSecOps Cloud Security Engineer here
 
 
 
