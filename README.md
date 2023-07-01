@@ -12,7 +12,7 @@ I'm a DevScOps Engineer. I am passionate about Cloud engineering, DevSecOps cult
 - 🌱 I’m currently learning Kubernetes.
 - 👯 I’m looking to collaborate on DevOps and Cloud Security Engineering.
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love to play Socceer
+- ⚡ Fun fact: I love to play Soccer
 
 
 ## Technology and Tools
